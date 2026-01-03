@@ -433,4 +433,4 @@ pm2 stop all
 
 ## Лицензия
 
-MIT
+ReNodeX
